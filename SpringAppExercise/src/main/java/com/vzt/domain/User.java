@@ -1,4 +1,4 @@
-package com.vzt.controller;
+package com.vzt.domain;
 
 public class User {
   
